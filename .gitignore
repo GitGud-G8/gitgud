@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# This ignores the entire Android Studio settings folder as requested
+.idea/
